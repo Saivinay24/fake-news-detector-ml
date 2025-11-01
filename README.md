@@ -55,3 +55,5 @@ The following confusion matrices show the performance of the three benchmarked m
 ```bash
 git clone [https://github.com/your-username/fake-news-detector-ml.git](https://github.com/your-username/fake-news-detector-ml.git)
 cd fake-news-detector-ml
+or
+once you download the code and install the requirements run this in the project folder terminal after runinng the 'train and save' code once:python3 -m streamlit run app.py
